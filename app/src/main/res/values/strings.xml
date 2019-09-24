@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TMNT</string>
+    <string name="Leo">Leonardo</string>
+    <string name="Raph">Raphael</string>
+    <string name="Mikey">Michelangelo</string>
+    <string name="Don">Donatello</string>
+    <string name="LeoS">Leo</string>
+    <string name="RaphS">Raph</string>
+    <string name="MikeyS">Mikey</string>
+    <string name="DonS">Don</string>
+    <string name="turtles_image">Images</string>
+</resources>
