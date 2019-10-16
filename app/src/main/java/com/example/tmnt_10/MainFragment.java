@@ -71,6 +71,7 @@ public class MainFragment extends Fragment {
         super.onStop();
         Log.d(TAG,"MF.onStop() called");
         mMediaPlayer.stop();
+        //改成pause的话，就可以实现续播的功能了
     }
 
     @Override
